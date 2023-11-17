@@ -1,5 +1,7 @@
 **Trilium Simple Single File Renderer**
 
+This plugin will add a new Template note to Trilium for render file created by Browser Extension [Single File](https://github.com/gildas-lormeau/SingleFile)
+
 author: xnohat@gmail.com
 
 **Install:**
